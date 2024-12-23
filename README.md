@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raghav Jha and I'm a Learning Enthusiast, from Greater Noida</h2>
+<h2 align="left">Hi 👋! My name is Raghav Jha and I'm a Learning Software Enthusiast, from Greater Noida</h2>
 
 ###
 
