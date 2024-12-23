@@ -3,13 +3,14 @@
 ###
 
 
-
-💻 Aspiring Software Developer currently building skills and working on exciting projects.
-🚀 Learning DSA in Java to strengthen problem-solving and coding efficiency.
-🌐 Familiar with HTML, CSS, and JavaScript, and actively expanding my web development knowledge.
-📚 Working on projects through freeCodeCamp.org to solidify my foundation in JavaScript.
-⚛️ Recently started learning React, aiming to create dynamic and interactive web apps.
-🤝 Open Source Enthusiast—exploring opportunities to contribute and collaborate.
+<ul>
+<li>💻 Aspiring Software Developer currently building skills and working on exciting projects.</li>
+<li>🚀 Learning DSA in Java to strengthen problem-solving and coding efficiency.</li>
+<li>🌐 Familiar with HTML, CSS, and JavaScript, and actively expanding my web development knowledge.</li>
+<li>📚 Working on projects through freeCodeCamp.org to solidify my foundation in JavaScript.</li>
+<li>⚛️ Recently started learning React, aiming to create dynamic and interactive web apps.</li>
+<li>🤝 Open Source Enthusiast—exploring opportunities to contribute and collaborate.</li>
+</ul>
 
 
 <div align="center">
