@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="SNAKEANIMATION.yml" alt="Snake animation" />
+
 
 ###
