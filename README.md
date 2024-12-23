@@ -2,6 +2,16 @@
 
 ###
 
+
+
+💻 Aspiring Software Developer currently building skills and working on exciting projects.
+🚀 Learning DSA in Java to strengthen problem-solving and coding efficiency.
+🌐 Familiar with HTML, CSS, and JavaScript, and actively expanding my web development knowledge.
+📚 Working on projects through freeCodeCamp.org to solidify my foundation in JavaScript.
+⚛️ Recently started learning React, aiming to create dynamic and interactive web apps.
+🤝 Open Source Enthusiast—exploring opportunities to contribute and collaborate.
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaghavJha60570&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaghavJha60570&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
