@@ -13,6 +13,7 @@
 <li>📚 Working on projects through freeCodeCamp.org to solidify my foundation in JavaScript.</li>
 <li>⚛️ Recently started learning React, aiming to create dynamic and interactive web apps.</li>
 <li>🤝 Open Source Enthusiast—exploring opportunities to contribute and collaborate.</li>
+  
 </ul>
 
 
