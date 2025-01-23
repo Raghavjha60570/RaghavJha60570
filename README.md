@@ -1,6 +1,6 @@
   <h2 align="left">Hi 👋! My name is Raghav Jha and I'm a Learning Software Enthusiast</h2>
        
-    
+     
 ###     
 <div style="text-align: center; width: 100%; display: flex; justify-content: center;">    
   <img src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b9521ag8i15m3xykvu0d965wrqy8zo0q32byo0tbek1o&ep=v1_gifs_search&rid=200w.gif&ct=g" style="width: 100%; max-width: 500px; height: auto;">
