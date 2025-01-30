@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Hello World ! I'm Raghav Jha </h1>
- 
+
+  
 # 💫 About Me:
 I'm currently working on personal projects to strengthen my basics.<br>I'm contributing to the open-source organization OpenElis-Global-2.<br>In addition, I'm exploring innovative solutions and enhancing my technical skills through practical experience and open-source contributions.
 
