@@ -25,22 +25,14 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=RaghavJha60570&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RaghavJha60570&theme=dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavJha60570&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <hr>  
 
 ### <samp>Github Stats
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+
+<hr>
  <div align="center">
- 
-  
-
-
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RaghavJha60570&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RaghavJha60570&theme=dark&hide_border=false)<br>
