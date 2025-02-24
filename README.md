@@ -1,13 +1,21 @@
- <div align="center">
-<h1>Hello World ! I'm Raghav Jha </h1>
- 
-  
-# 💫 About Me:
-I'm currently working on personal projects to strengthen my basics.<br>I'm contributing to the open-source organization OpenElis-Global-2.<br>In addition, I'm exploring innovative solutions and enhancing my technical skills through practical experience and open-source contributions.
+<h1 align="center">Hey Everyone! 👋, I'm Raghav Jha</h1>
+<h3 align="center">Student.</h3>
+
+- <samp>Currently pursuing B.Tech in Electrical Enginnering(2024-2028) from Rajkiya Enginnering College, Ambedkar Nagar
+- <samp>Ask me about Html/CSS/ThreeJs
+-  <samp>I’m currently learning Frontend/Backend Development
+-  <samp>How to reach me rjha60571@gmail.com
+- <samp>I'm contributing to the open-source organization OpenElis-Global-2.
+- <samp>In addition, I'm exploring innovative solutions and enhancing my technical skills through practical experience and open-source contributions.
+
+
+
+<h3><b><samp>Connect with Me</samp></b></h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-jha-25692430b/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rjha60571)
+
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -17,6 +25,11 @@ I'm currently working on personal projects to strengthen my basics.<br>I'm contr
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
+
+<hr>  
+
+ <div align="center">
+  
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RaghavJha60570&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RaghavJha60570&theme=dark&hide_border=false)<br>
