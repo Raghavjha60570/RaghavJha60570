@@ -1,13 +1,14 @@
 <h1 align="center">Hey Everyone! 👋, I'm Raghav Jha</h1>
 <h3 align="center">Student.</h3>
 
+<div style="Font-Family:Arial">
 - <samp>Currently pursuing B.Tech in Electrical Enginnering(2024-2028) from Rajkiya Enginnering College, Ambedkar Nagar
 - <samp>Ask me about Html/CSS/ThreeJs
 -  <samp>I’m currently learning Frontend/Backend Development
 -  <samp>How to reach me rjha60571@gmail.com
 - <samp>I'm contributing to the open-source organization OpenElis-Global-2.
 - <samp>In addition, I'm exploring innovative solutions and enhancing my technical skills through practical experience and open-source contributions.
-
+</div>
 
 
 <h3><b><samp>Connect with Me</samp></b></h3>
