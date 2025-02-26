@@ -8,7 +8,7 @@
 - <samp>I'm contributing to the open-source organization OpenElis-Global-2.
 - <samp>In addition, I'm exploring innovative solutions and enhancing my technical skills through practical experience and open-source contributions.
 
-
+   
 
 <h3><b><samp>Connect with Me</samp></b></h3>
 
