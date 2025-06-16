@@ -3,10 +3,10 @@
 
 
 - <ul>Currently pursuing B.Tech in Electrical Enginnering(2024-2028) from Rajkiya Enginnering College, Ambedkar Nagar</ul>
-- <ul>Ask me about Html/CSS/ThreeJs</ul>
+- <ul>Ask me about Html/CSS/ThreeJs/React Js/ Experess js</ul>
 -  <ul>I’m currently learning Frontend/Backend Development</ul>
--  <ul>How to reach me <a>rjha60571@gmail.com</a></ul>
-- <ul>I'm contributing to the open-source organization OpenElis-Global-2.</ul>
+-  <ul>How to reach me <a>rjha60571@gmail.com</a></ul
+- <ul>I'm eager to contributing  to open source </ul>
 - <ul>In addition, I'm exploring innovative solutions and enhancing my technical skills through practical experience and open-source contributions.</ul>
 
    
