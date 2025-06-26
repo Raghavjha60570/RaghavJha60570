@@ -46,6 +46,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=RaghavJha60570&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📅 Contributions (Live from GitHub):
-[![RaghavJha60570's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RaghavJha60570&theme=github-dark)](https://github.com/RaghavJha60570)
-</div>
+
