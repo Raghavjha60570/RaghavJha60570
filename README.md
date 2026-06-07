@@ -1,7 +1,7 @@
 # Hey Everybody I m Rookie To the PlayGround 🚀
 <h3 align="center">Student.</h3> 
 
-* Currently pursuing B.Tech in Electrical Engineering (2024-2028) from Rajkiya Engineering College, Ambedkar Nagar</ul>
+* Currently pursuing B.Tech in Electrical Engineering (2024-2028) from Rajkiya Engineering College, Ambedkar Nagar
 * Ask me about HTML/CSS/Three.js/React.js/Express.js
 * I’m currently learning Frontend/Backend Development
 * How to reach me: <a href="mailto:rjha60571@gmail.com">rjha60571@gmail.com</a>
