@@ -1,12 +1,12 @@
-# Hey Everybody I m Rookie To the PlayGround 
+# Hey Everybody I m Rookie To the PlayGround 🚀
 <h3 align="center">Student.</h3> 
 
-- <ul>Currently pursuing B.Tech in Electrical Engineering (2024-2028) from Rajkiya Engineering College, Ambedkar Nagar</ul>
-- <ul>Ask me about HTML/CSS/Three.js/React.js/Express.js</ul>
-- <ul>I’m currently learning Frontend/Backend Development</ul>
-- <ul>How to reach me: <a href="mailto:rjha60571@gmail.com">rjha60571@gmail.com</a></ul>
-- <ul>I'm eager to contribute to open source</ul>
-- <ul>In addition, I'm exploring innovative solutions and enhancing my technical skills through practical experience and open-source contributions — including working on the City Skillibe Projection 🚀</ul>
+* Currently pursuing B.Tech in Electrical Engineering (2024-2028) from Rajkiya Engineering College, Ambedkar Nagar</ul>
+* Ask me about HTML/CSS/Three.js/React.js/Express.js
+* I’m currently learning Frontend/Backend Development
+* How to reach me: <a href="mailto:rjha60571@gmail.com">rjha60571@gmail.com</a>
+* I'm eager to contribute to open source
+* In addition, I'm exploring innovative solutions and enhancing my technical skills through practical experience and open-source contributions — including working on the City Skillibe Projection 🚀
 
 ---
 
