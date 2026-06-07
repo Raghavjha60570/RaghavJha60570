@@ -1,4 +1,4 @@
-# Hey Everybody I m Rookie To the PlayGround 🚀
+# Hey Everybody I'm Rookie To the PlayGround 🚀
 <h3 align="center">Student.</h3> 
 
 * Currently pursuing B.Tech in Electrical Engineering (2024-2028) from Rajkiya Engineering College, Ambedkar Nagar
@@ -9,8 +9,7 @@
 * In addition, I'm exploring innovative solutions and enhancing my technical skills through practical experience and open-source contributions — including working on the City Skillibe Projection 🚀
 
 ---
-
-<h3><b><samp>Connect with Me</samp></b></h3>
+* Connect with me 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-jha-25692430b/) 
