@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone! 👋, I'm Raghav Jha</h1>
+# Hey Everybody I m Rookie To the PlayGround 
 <h3 align="center">Student.</h3> 
 
 - <ul>Currently pursuing B.Tech in Electrical Engineering (2024-2028) from Rajkiya Engineering College, Ambedkar Nagar</ul>
