@@ -9,7 +9,7 @@
 * In addition, I'm exploring innovative solutions and enhancing my technical skills through practical experience and open-source contributions — including working on the City Skillibe Projection 🚀
 
 ---
-##Connect with me 
+## Connect with me 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-jha-25692430b/) 
